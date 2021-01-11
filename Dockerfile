@@ -41,11 +41,14 @@ RUN apt update && apt -y full-upgrade && apt install -y \
   ca-certificates \
   crudini \
   firefox \
+  git \
   less \
   locales \
+  mplayer \
   openssh-server \
   pepperflashplugin-nonfree \
   pulseaudio \
+  screen \
   sudo \
   supervisor \
   uuid-runtime \
